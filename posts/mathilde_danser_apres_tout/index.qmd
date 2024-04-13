@@ -1,0 +1,28 @@
+---
+title: "Mathilde: Danser après tout 🤸‍♀️"
+lang: fr
+author: "Mini Ju"
+date: "2024-03-30"
+categories: [Danse, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/mathilde_danser_apres_tout/reference.bib
+image: "mathilde.jpg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](mathilde.jpg){width="90%" fig-align="center"}
+:::
+
+::: {.column width="55%"}
+<br>
+<br>
+<br>
+<br>
+<br>
+"François Olislaeger rencontre Mathilde Monnier.
+Il voudrait qu'elle lui apprenne à danser.
+Elle lui propose de faire une bande dessinée.
+Au fil des planches, une grande chorégraphe offre une surprenante master class." [@Monnier2013-ly]
+:::
+
+::::

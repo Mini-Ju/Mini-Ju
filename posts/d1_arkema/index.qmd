@@ -1,0 +1,55 @@
+---
+title: "D1 Arkema ⚽"
+lang: fr
+author: "Mini Ju"
+date: "2024-04-06"
+categories: [Foot]
+image: D1_Arkema.png
+---
+
+Qu'est-ce que la D1 Arkema ? 🤔
+
+![](D1_Arkema.png){width="50%" fig-align="center"}
+
+La **Division 1** ou **D1 Féminine** et officiellement **D1 Arkema**, est le championnat féminin français de football de plus haut niveau.
+
+L'équipe remportant la victoire est sacrée championne de France et qualifiée pour la **Ligue des champions**, ainsi que l'équipe finaliste et l'équipe gagnante de la petite finale.
+
+Les deux dernieres équipes du championnat sont reléguées en **D2 Féminine** d'où montent les deux meilleures équipes.
+
+Le championnat **D1 Arkema** oppose 12 clubs français :
+
+::: {.panel-tabset}
+
+## Saison 2023/2024
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+|  Equipes|  |
+|--:|--:|
+|  ![](ASJ_Soyaux-Charente.png){height=75}| [ASJ SOYAUX CHARENTE]()|
+|  ![](Dijon_FCO.png){height=75}| [DIJON FCO]()|
+|  ![](En_avant_Guingamp.png){height=75}|  [EA GUINGAMP]()|
+|  ![](FC_Fleury_91.png){height=75}| [FC FC FLEURY]()|
+|  ![](Girondins_de_Bordeaux.png){height=75}| [GIRONDINS BORDEAUX]()|
+|  ![](Havre_AC.png){height=75}| [HAVRE AC]()|
+:::
+
+::: {.column width="50%"}
+|  Equipes|  |
+|--:|--:|
+|  ![](Montpellier_Herault_Sport_Club.png){height=75}| [MONTPELLIER HSC]()|
+|  ![](Olympique_Lyonnais.png){height=75}| [OLYMPIQUE LYONNAIS]()|
+|  ![](Paris_FC.png){height=75}| [PARIS FC]()|
+|  ![](Paris_Saint-Germain.png){height=75}| [PARIS SAINT-GERMAIN]()|
+|  ![](Rodez_AF.png){height=75}| [RODEZ AVEYRON F.]()|
+|  ![](Stade_de_Reims.png){height=75}| [STADE DE REIMS]()|
+:::
+
+::::
+
+:::
+
+Référence : <https://www.fff.fr/competition/engagement/407655-d1-arkema/phase/1/index.html>

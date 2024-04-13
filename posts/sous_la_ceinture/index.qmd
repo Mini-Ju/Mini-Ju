@@ -1,0 +1,26 @@
+---
+title: "Sous la ceinture 🥊"
+lang: fr
+author: "Mini Ju"
+date: "2024-04-13"
+categories: [Boxe, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/sous_la_ceinture/reference.bib
+image: "sous_la_ceinture.jpeg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](sous_la_ceinture.jpeg){fig-align="center" width="80%"}
+:::
+
+::: {.column width="55%"}
+<br>
+<br>
+<br>
+"Ton truc, le domaine où t'es forte, c'est la boxe.
+Un sport où le but c'est de taper l'adversaire, de le mettre K.O. C'était ton truc et il te l'a volé, c'est putain de pas juste !
+
+Mais si on trouvait un moyen pour que tu montes sur le ring face à lui, tu pourrais lui reprendre ça. Tu pourrais lui casser la gueule, en public, et on t'applaudirait pour ça." [@Freaks_2023]
+:::
+
+::::
