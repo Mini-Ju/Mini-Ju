@@ -1,0 +1,22 @@
+---
+title: "Les grandes et les petites choses 🏃‍♀️"
+lang: fr
+author: "Mini Ju"
+date: "2024-05-04"
+categories: [Athlétisme, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/les_grandes_et_les_petites_choses/reference.bib
+image: "les_grandes_et_petites_choses.jpg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](les_grandes_et_petites_choses.jpg){width="90%" fig-align="center"}
+:::
+
+::: {.column width="55%"}
+"Je cours puisqu'il le faut... pour faire battre mon coeur... sentir mon pouls sur mes tempes... mon souffle... mes pieds qui apprivoisent le sol... J'irai jusqu'au bout... dans mon histoire !"
+
+"Moins de 12 secondes, c'est le temps qu'il aura fallu à Nina, 18 ans, pour parcourir un 100 mètres et devenir championne de France. Noire, juive, musulmane et blanche, elle peine à trouver ses marques dans une société qui voudrait l'enfermer dans des cases figées. Alors elle court, elle court pour fuir l'injustice, l'Histoire, les grandes et les petites choses de sa vie. Elle choisit la vitesse pour toucher du doigt ce rêve d'égalité. Car, si Nina doute beaucoup face au regard des autres, le chronomètre, lui, est redoutablement juste." [@Khan2023-wk]
+:::
+
+::::

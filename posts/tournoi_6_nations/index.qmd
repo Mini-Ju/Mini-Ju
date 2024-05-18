@@ -1,0 +1,58 @@
+---
+title: "Tournoi des 6 nations féminin 🏉"
+lang: fr
+author: "Mini Ju"
+date: "2024-04-28"
+categories: [Rugby]
+image: Logo_Guinness_6_Nations_2024.png
+---
+
+Qu'est-ce que le tournoi des 6 nations féminin ? 🤔
+
+![](Logo_Guinness_6_Nations_2024.png){width="40%" fig-align="center"}
+
+Le **Tournoi des Six Nations féminin** est une compétition internationale de rugby disputée entre 6 équipes nationales féminines :
+
+![Les 6 nations participant au tournoi en violet : l'Irlande 🇮🇪, l'Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿, l'Écosse 🏴󠁧󠁢󠁳󠁣󠁴󠁿, le Pays de Galles 🏴󠁧󠁢󠁷󠁬󠁳󠁿, la France 🇫🇷 et l'Italie 🇮🇹](How%20much%20world.png){height=400}
+
+::: {.panel-tabset}
+
+## Saison 2024
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+| Classement | | Equipes |
+|:--:|:--:|:--:|
+| 1 |  ![](england-rugby.svg){height=75}| [Angleterre]()|
+| 2 |  ![](france-rugby-logo-vector.svg){height=75}| [France]()|
+| 3 |  ![](Logo_Irish_Rugby_Football_Union_2009.svg){height=75}| [Irlande]()|
+| 4 |  ![](Scottish_Rugby_team_logo.svg){height=75}| [Écosse]()|
+| 5 |  ![](Logo_della_F.I.R.svg){height=75}| [Italie]()|
+| 6 |  ![](Welsh_Rugby_Union_(logo).svg){height=75}| [Pays de Galles]()|
+:::
+
+::::
+
+## Saison 2023
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+| Classement | | Equipes |
+|:--:|:--:|:--:|
+| 1 |  ![](england-rugby.svg){height=75}| [Angleterre]()|
+| 2 |  ![](france-rugby-logo-vector.svg){height=75}| [France]()|
+| 3 |  ![](Welsh_Rugby_Union_(logo).svg){height=75}| [Pays de Galles]()|
+| 4 |  ![](Scottish_Rugby_team_logo.svg){height=75}| [Écosse]()|
+| 5 |  ![](Logo_della_F.I.R.svg){height=75}| [Italie]()|
+| 6 |  ![](Logo_Irish_Rugby_Football_Union_2009.svg){height=75}| [Irlande]()|
+:::
+
+::::
+
+:::
+
+Référence : <https://www.world.rugby/tournaments/six-nations-women>

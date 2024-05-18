@@ -1,0 +1,28 @@
+---
+title: "J'y vais mais j'ai peur : Journal d'une navigatrice ⛵"
+lang: fr
+author: "Mini Ju"
+date: "2024-05-12"
+categories: [Voile, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/j_y_vais_mais_j_ai_peur/reference.bib
+image: "j_y_vais_mais_j_ai_peur.jpeg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+<br>
+<br>
+![](j_y_vais_mais_j_ai_peur.jpeg){fig-align="center" width="80%"}
+:::
+
+::: {.column width="55%"}
+"En 2017, à 27 ans, Clarisse Crémer se lance dans sa première Mini Transat. Le monde de la voile découvre une féroce compétitrice et le grand public se met à suivre avec passion les vidéos de "Clarisse sur l'Atlantique".
+
+Elle s'attaque ensuite au Vendée Globe, l'une des courses au large les plus exigeantes, et le 3 février 2021 la navigatrice termine son premier tour du monde en solitaire, en 87 jours, 2 heures, 24 minutes et 25 secondes.
+
+Pour raconter son parcours, celle d'une jeune femme devenue "marin au long cours", elle s'associe à la bédéaste Maud Bénézit.
+
+Des doutes à l'exaltation, en passant par l'immersion dans l'impressionnante logistique de telles courses, les deux autrices dessinent le portrait d'une skippeuse hors-norme, dans son quotidien comme dans ses exploits. [@Cremer_2024]
+:::
+
+::::
