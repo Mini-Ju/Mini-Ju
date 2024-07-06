@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Mini-Ju
+---
+
+Hello ! 👋
+
+Je suis @Mini-Ju
+
+👀 Je m'intéresse au sport, notamment au sport féminin 💪
+
+Pas assez représenté à mon goût, j'ai décidé de créer un blog avec des articles 📝, des vidéos 📹 et des livres 📚 sur le sport féminin
