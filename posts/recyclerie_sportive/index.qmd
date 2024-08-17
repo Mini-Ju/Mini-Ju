@@ -1,0 +1,21 @@
+---
+title: "La Recyclerie Sportive ♻️"
+lang: fr
+author: "Mini Ju"
+date: "2024-08-03"
+categories: [Multisport]
+image: "logo_rs_transp_noir.png"
+---
+
+Du tri dans ses équipements sportifs ? Pensez donc à La Recyclerie Sportive !
+
+![](logo_rs_transp_noir.png){width=60% fig-align="center"}
+
+Que ce soit par conscience écologique 🌳, pour des raisons financières, pour la défense de l'économie sociale et solidaire, ou simplement par curiosité 😉, la [Recyclerie Sportive](https://recyclerie-sportive.org/) permet la collecte et la revente de matériels sportifs à bas prix 💸
+
+- **Pour déposer vos équipements** (vêtements 🎽, protège-tibias, chaussures 👟, rollers 🛼, ballons 🏀, appareils de musculation 🏋️‍♀️ ...), vous trouverez les points de collectes de la Recyclerie Sportive 
+[ici](https://recyclerie-sportive.org/ma-recyclerie-sportive/points-de-collecte/)
+
+- **Pour trouver une boutique proche de chez vous**, les informations se trouvent [là](https://recyclerie-sportive.org/ma-recyclerie-sportive/ma-rs-la-plus-proche/)
+
+À vous de jouer ! 🙂

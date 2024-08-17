@@ -1,0 +1,25 @@
+---
+title: "Spinning ⛸️"
+lang: fr
+author: "Mini Ju"
+date: "2024-07-07"
+categories: [Patinage artistique, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/spinning/reference.bib
+image: "Spinning.jpg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](Spinning.jpg){width="90%" fig-align="center"}
+:::
+
+::: {.column width="55%"}
+<br>
+<br>
+<br>
+"Entraînements tôt le matin et tard le soir, compétitions le week-end. Depuis l'enfance, le patinage artistique rythme la vie de Tillie Walden.
+
+Mais rien ne va plus de soi quand vient l'adolescence. Au fil des épreuves qu'elle traverse à la maison, à l'école ou sur la glace se dessine le portrait touchant d'une jeune femme qui affirme son homosexualité et revendique sa liberté." [@Walden2017-ox]
+:::
+
+::::

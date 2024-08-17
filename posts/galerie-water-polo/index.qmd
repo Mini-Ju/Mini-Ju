@@ -1,0 +1,18 @@
+---
+title: "Galerie Water-polo 🤽‍♀️"
+lang: fr
+author: "Mini Ju"
+date: "2024-06-16"
+categories: [Water-polo, Galerie vidéo]
+image: waterpolo.jpg
+---
+
+![](waterpolo.jpg){width="70%" fig-align="center"}
+
+Découvrez l'univers passionnant du Water-polo 🤽‍♀️ avec ces séquences vidéos ! 🎥 
+
+![06/02/2024, Championnat du monde de water-polo 2024 - France vs Chine, Doha (Qatar)](waterpolo_goal.mp4)
+
+![06/02/2024, Championnat du monde de water-polo 2024 - France vs Chine, Doha (Qatar)](waterpolo_chistera.mp4)
+
+![06/05/2024, Match amical - France vs Etats-Unis, Centre Aquatique Olympique, Saint-Denis (France)](waterpolo_lobe.mp4)

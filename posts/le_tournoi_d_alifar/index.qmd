@@ -1,0 +1,27 @@
+---
+title: "Le Tournoi d’Alifar 🛼"
+lang: fr
+author: "Mini Ju"
+date: "2024-06-29"
+categories: [Roller, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/le_tournoi_d_alifar/reference.bib
+image: "le_tournoi_d_alifar.jpg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](le_tournoi_d_alifar.jpg){fig-align="center" width="80%"}
+:::
+
+::: {.column width="55%"}
+<br>
+<br>
+<br>
+"Le 17 octobre 2020, je fais une mauvaise chute en patins dans une rampe et me fracture le tibia & la fibula. Je suis opérée et immobilisée.
+
+Après 3 semaines à désespérer, je me souviens que je fais des livres. Alors, je monte ce projet pour m'aider à surmonter la frustration de ne pas pouvoir rouler.
+
+Et voilà !" [@Tarmaz2021-qk]
+:::
+
+::::

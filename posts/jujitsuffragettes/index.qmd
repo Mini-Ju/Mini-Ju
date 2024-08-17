@@ -1,0 +1,27 @@
+---
+title: "Jujitsuffragettes : Les Amazones de Londres 🥋"
+lang: fr
+author: "Mini Ju"
+date: "2024-05-25"
+categories: [Arts martiaux, Litterature]
+bibliography: /home/julie/Documents/Blog/posts/jujitsuffragettes/reference.bib
+image: "jujitsuffragettes.jpeg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+<br>
+<br>
+<br>
+![](jujitsuffragettes.jpeg){fig-align="center" width="80%"}
+:::
+
+::: {.column width="55%"}
+"Dans les années 1910, Edith Garrud, l'une des premières femmes professeures d'arts martiaux en Europe, forme les gardes du corps des suffragettes qui affrontent une très rude répression policière. Celles qu'on surnomme les « jujitsuffragettes » greffent à leur lutte une bonne dose d'humour. Elles bousculent les mentalités, bottent les fesses des réactionnaires et démontrent la force du sexe dit « faible » !
+
+Grâce à leur combat, les femmes britanniques obtiendront le droit de vote en 1918, près de trente ans avant leurs consoeurs françaises.
+
+Lisa Lugrin et Clément Xavier (prix révélation Angoulême 2015) s'emparent d'un destin singulier qui fait écho aux luttes d'aujourd'hui... L'ouvrage est préfacé par Elsa Dorlin. Elle a reçu la médaille de bronze du CNRS pour ses travaux sur la philosophie et le genre et l'épistémologie féministe ainsi que le prix Frantz Fanon pour son livre *Se Défendre : Une philosophie de la violence.*" [@Xavie-Lugrin_2020]
+:::
+
+::::

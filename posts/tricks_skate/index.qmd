@@ -1,0 +1,130 @@
+---
+title: "Les tricks au Skate 🛹"
+lang: fr
+author: "Mini Ju"
+date: "2024-07-13"
+categories: [Skate]
+bibliography: /home/julie/Documents/Blog/posts/tricks_skate/reference.bib
+image: "close-up-skateboard-rink.jpg"
+---
+
+En manque d'inspiration au skatepark ? 
+
+Voici une liste de tricks répartie selon votre niveau de skate ! 🎉
+
+![](close-up-skateboard-rink.jpg){width=80% fig-align="center"}
+
+Les figures au skate sont appelées des **tricks**. On commence généralement à travailler sur un trick, puis, une fois maîtrisé, sur un autre avant de vouloir en enchaîner plusieurs. En compétition, l'enchaînement de tricks sur un temps limité est appelé un **run**. 
+
+*Le Guide du skate board : Histoire, matériel, tricks* [@Powell2023-pe] classe les tricks selon 3 catégories : débutant, intermédiaire et avancé.
+
+De quoi s'entraîner selon son niveau 😉
+
+::: panel-tabset
+
+## Débutant
+
+::: {.grid}
+
+::: {.g-col-2}
+:::
+
+::: {.g-col-7}
+
+| Tricks  |
+|--------|
+| La poussée  |
+| Tic-tac/kickturn   |
+| Powerslide |
+| Manual |
+| Nose manual |
+| Boneless |
+| No-comply |
+| Ollie |
+| Shove-it  |
+| Fakie ollie |
+| Nollie |
+| 180 ollie |
+
+: Tricks niveau débutant {.striped .hover}
+
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+
+## Intermédiaire
+
+::: {.grid}
+
+::: {.g-col-2}
+:::
+
+::: {.g-col-7}
+
+| Tricks  |
+|--------|
+| 50-50  |
+| Backside boardslide |
+| Backside noseslide to fakie |
+| Kickflip |
+| Heelflip |
+| Pop shove-it flip |
+| Half-cab kickflip |
+| Fakie kickflip |
+| Ollie off ramp |
+| One-footed ollie |
+
+: Tricks niveau intermédiaire {.striped .hover}
+
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+
+
+
+## Avancé
+
+::: {.grid}
+
+::: {.g-col-2}
+:::
+
+::: {.g-col-7}
+
+| Tricks |
+|--------|
+| Frontside lipslide |
+| Frontside 5-0 grind |
+| Feeble |
+| Frontside noseslide |
+| Frontside smith grind |
+| Frontside nosegrind |
+| Crooked grind |
+| Backside tailslide |
+| Backside kickflip |
+| Tres flip |
+| Nollie flip |
+| Nollie heelflip |
+| Indy grab |
+| Melancholy |
+| Tailgrab |
+| Kickflip melancholy |
+
+: Tricks niveau avancé {.striped .hover}
+
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+
+:::
+
+Bon entraînement ! 😊
