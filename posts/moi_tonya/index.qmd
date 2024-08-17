@@ -1,0 +1,23 @@
+---
+title: "Moi, Tonya ⛸️"
+lang: fr
+author: "Mini Ju"
+date: "2024-08-17"
+categories: [Patinage artistique, Cinématographie]
+bibliography: /home/julie/Documents/Blog/posts/moi_tonya/reference.bib
+image: "moi_tonya.jpg"
+---
+
+:::: {.columns}
+::: {.column width="45%"}
+![](moi_tonya.jpg){fig-align="center" width="80%"}
+:::
+
+::: {.column width="55%"}
+<br>
+<br>
+<br>
+"En 1994, le milieu sportif est bouleversé en apprenant que Nancy Kerrigan, jeune patineuse artistique promise à un brillant avenir, est sauvagement attaquée. Plus choquant encore, la championne Tonya Harding et ses proches sont soupçonnés d'avoir planifié et mis à exécution l'agression..." [@Itonya_2017]
+:::
+
+::::
