@@ -1,0 +1,14 @@
+{
+  "hash": "1b7c7086daf4c1c627842855b6f06313",
+  "result": {
+    "markdown": "---\ntitle: \"Du Skate à Bordeaux\"\nauthor: \"Julie Blasquiz\"\ndate: \"2023-12-02\"\ncategories: [Skate]\n---\n\n\nEt pourquoi pas du skate ? 🛹\n\n![](skate.jpg)\n\nLe skate ? Un doux rêve d'enfant/adolescent ?\n\nQui peut se transformer en rêve d'adulte !\n\nParce que oui, apprendre à faire du skate à l'âge adulte est possible, et ce, notamment avec les cours du soir spécial adulte donnés au Hangar Darwin Skatepark.\n\nDans une super ambiance avec des profs compétents, patients et pédagogues les cours se déroulent en petit comité et s'adaptent au niveau des pratiquants.\n\nDifférents types de cours sont proposés selon les âges et les niveaux :\n\n- Baby skater (pour les moins de 5 ans)\n- Débutants\n- Intermédiaires\n- Perfectionnement\n- Adultes débutants\n- Adultes confirmés \n\nDes stages sont également proposés durant les vacances scolaires.\n\nDu skate, certes, mais pas que !\n\nLe Hangar Darwin Skatepark propose également des cours de roller 🛼, trottinette 🛴 et bmx 🚲 !\n\nPour plus de renseignements aller donc jeter un oeil au site 😉 [hangardarwin](https://hangardarwin.org/)\n\n\nContact :\n\nhangarskatepark@darwin.camp\n\n87 Quai des Queyries 33100 BORDEAUX\n\n\n::: {.cell}\n\n:::\n\n\n🚲 Vcub : Parc aux Angéliques\n\n🚗 Parking : Devant Darwin\n\n🚋 Tramway : Ligne A – Arrêt Stalingrad\n\n🚌 Bus : Ligne 45 – 91 – 92",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

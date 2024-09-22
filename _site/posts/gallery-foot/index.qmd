@@ -1,0 +1,13 @@
+---
+title: "Gallerie Football"
+author: "Julie Blasquiz"
+date: "2023-12-02"
+categories: [Foot, Sports]
+image: "foot.jpg"
+---
+
+This is a post with executable code.
+
+![](foot.jpg)
+
+{{< video 1-4definaleAustralievsFrance_2023_08_12.mp4 >}}
