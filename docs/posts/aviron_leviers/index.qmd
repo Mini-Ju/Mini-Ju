@@ -1,0 +1,22 @@
+---
+title: "L'aviron et les leviers 🚣‍♀️"
+lang: fr
+author: "Mini Ju"
+date: "2024-09-22"
+categories: [Aviron]
+image: "aviron.jpg"
+---
+
+![](aviron.jpg){width=70% fig-align="center"}
+
+Comment propulser son embarcation en aviron ? 🛶
+Comment ramer de façon plus optimale ?
+Sur quel principe physique repose la discipline ? 🤔
+
+La compréhension du principe du levier et un premier élément de réponse. Ajuster sa technique en ayant ce principe en tête permet de jouer avec les lois physiques qui l'entourent.
+
+Mais alors qu'est-ce que cette notion de levier en aviron ? 
+
+La vidéo suivante vous éclaircira les idées 😉
+
+![15/09/2024, L’aviron et les leviers | Culture physique | ARTE](L_aviron_et_les_leviers_Culture_physique_ARTE.mp4)
