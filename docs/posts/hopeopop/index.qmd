@@ -1,0 +1,24 @@
+---
+title: "Hopopope ! 👟"
+lang: fr
+author: "Mini Ju"
+date: "2025-06-07"
+categories: [Multisport, Bordeaux]
+image: "couleur.png"
+---
+
+Vous cherchez à pratiquer une activité physique ? 👍
+
+Mais sans savoir exactement quoi ni ce qui se fait proche chez vous ? 🤔
+
+![](couleur.png){width=60% fig-align="center"}
+
+La plateforme [Hopopope](https://hopopope.fr/) (gratuite !) permet de vous simplifier la vie ! 
+
+[Hopopope](https://hopopope.fr/) recense des cours de sport dans toute la Gironde pour faciliter l’accès à une pratique inclusive, à tout moment de l'année et sans engagement. Le pied ! 🦶😊
+
+Plein d'activités y sont répertorié 🙃 : des sports d'équipe, individuels, de plein air, aquatiques, du fitness, de la danse, des arts martiaux, du handisport...
+
+Pour en savoir plus sur l'histoire de la création de la plateforme, jeter donc un œil 👁️ à cet [article](https://actu.fr/nouvelle-aquitaine/bordeaux_33063/gironde-apres-son-avc-un-merignacais-cree-une-application-gratuite-et-facilite-l-acces-au-sport-pour-tous_62630359.html).
+
+Allez, Hop op ope ! 😉
